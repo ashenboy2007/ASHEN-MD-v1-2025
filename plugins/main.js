@@ -92,7 +92,7 @@ cmd({
         'image': {
           'url': config.LOGO
         },
-        'caption': "*Hello " + _0x4bc6d9 + " ❕*\n\n*🫟 I am ASHEN-MD WhatsApp Bot. I am alive now 👀*\n\n   *• Smart 📲*\n   *• Fast 💀*\n   *• Secure 👉 *\n\n*Thank you for using ASHEN-MD 👈 !*",
+        'caption': "*Hello " + _0x4bc6d9 + " ❕*\n\n*🫟 I am ASHEN-MD WhatsApp Bot. I am alive now 👀*\n\n   *• Smart 📲*\n   *• Fast 💀*\n   *• Secure 👉*\n\n*Thank you for using ASHEN-MD 👈 !*",
         'footer': config.FOOTER,
         'buttons': _0x1af2e5,
         'headerType': 0x4
